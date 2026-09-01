@@ -37,6 +37,8 @@ Two files, joined through the title ID.
 
 **Page 1 — Content Overview**
 
+![Netflix Dashboard - Page 1](dashboard-page-1-content-overview.png)
+
 Built so someone can understand the whole catalogue in one look.
 
 - KPI cards: Total Titles, Total Movies, Total Shows, Average IMDB Score

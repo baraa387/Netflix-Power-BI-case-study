@@ -50,6 +50,8 @@ Built so someone can understand the whole catalogue in one look.
 
 **Page 2 — Top Actors and Directors**
 
+![Netflix Dashboard - Page 2](dashboard-page-2-top-actors-directors.png)
+
 Uses the join between the two files to answer questions neither file could
 answer alone.
 
